@@ -2,8 +2,7 @@
 
 
 <div style="text-align: center;">
-    <img src="https://github.com/user-attachments/assets/ae3e3c7d-ed44-45fc-9a85-f6fbf096fd0d
-" alt="Project Overview" width="600" height="300">
+    <img src="https://github.com/user-attachments/assets/ae3e3c7d-ed44-45fc-9a85-f6fbf096fd0d" alt="Project Overview" width="600" height="300">
 </div>
 
 ## Introduction
