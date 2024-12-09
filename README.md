@@ -1,6 +1,5 @@
 # Smart Home Security System with ESP32 and Blynk
 
-<img src="https://allbetterapp.com/wp-content/uploads/2024/03/Smart-Home.jpg" alt="Smart Home Image" />
 
 
 
