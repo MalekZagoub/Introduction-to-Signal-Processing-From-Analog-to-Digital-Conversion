@@ -1,6 +1,6 @@
 # Smart Home Security System with ESP32 and Blynk
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fallbetterapp.com%2Fhow-can-smart-home-technology-enhance-your-lifestyle%2F&psig=AOvVaw0lCbWMjMxVJO77dnqxov-b&ust=1733860152493000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLC0lsW6m4oDFQAAAAAdAAAAABAt" alt="Smart Home Image" />
+<img src="https://allbetterapp.com/wp-content/uploads/2024/03/Smart-Home.jpg" alt="Smart Home Image" />
 
 
 
