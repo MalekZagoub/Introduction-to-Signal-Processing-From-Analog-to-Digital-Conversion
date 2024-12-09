@@ -1,5 +1,8 @@
 # Smart Home Security System with ESP32 and Blynk
 
+<img src="https://allbetterapp.com/wp-content/uploads/2024/03/Smart-Home.jpg" alt="Smart Home Image" />
+
+
 ## Introduction
 This project implements a **Smart Home Security System** using the ESP32 microcontroller and the Blynk IoT platform. It integrates multiple sensors to monitor environmental conditions and control devices in response to detected anomalies. The system ensures real-time alerts and notifications through the Blynk mobile app.
 
