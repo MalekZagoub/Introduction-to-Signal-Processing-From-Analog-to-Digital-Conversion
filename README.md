@@ -34,14 +34,5 @@ This project implements a **Smart Home Security System** using the ESP32 microco
 6. Update the Wi-Fi and Blynk credentials in the code.
 7. Run the system and monitor real-time data on the Blynk app.
 
-## Project Structure
-- `main.ino`: The primary Arduino code for the project.
-- `README.md`: This documentation file.
-- `Images/`: Contains images of the system setup and app interface.
 
-## Contributing
-Contributions are welcome! Please feel free to fork this repository and submit pull requests with your improvements.
-
-## License
-This project is licensed under the **MIT License**. See the `LICENSE` file for details.
 
